@@ -120,7 +120,6 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "music1.ogg", name: "Star Wars Battlefront 2 OST- Crait Loading Loop A"},
 	{ogg: "music2.ogg", name: "Star Wars Battlefront OST- Scarif Loading Loop B"},
-	{ogg: "music3.ogg", name: "Star Wars the Clone Wars - The Clones"},
 ];
 
 // Random music order?
